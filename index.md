@@ -4,7 +4,7 @@
 {:toc}
 </nav>
 
-<p><a href="https://arxiv.org/pdf/2210.17218.pdf" target="_blank">
+<p><a href="[https://arxiv.org/pdf/2210.17218.pdf](https://arxiv.org/abs/2210.17218)" target="_blank">
 <img src="images/draft_paper_button.png" width="230" height="65" >
 </a></p>
 
@@ -26,7 +26,7 @@ To identify key concepts in current scholarship on AI in government, a bibliom
   <img src="images/fig1-methodology.png" width="900" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Figure 1.** Literature search and concept extraction procedure. (a) Search term selection involved hand selecting seed articles (n=7) on the topic of AI in government and using the keywords (n=12) from these articles as search terms for a literature search. Filtering out articles that did not meet our inclusion criteria resulted in a final corpus of 99 articles from which key concepts were extracted using the unsupervised keyword extraction combined with manual abstract review. (b) The 12 search terms used for the literature search. (b) The top 10 concepts that we extracted. Each bar represents the total number of occurrences of a term in the final list of author-validated extracted concepts. </sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>**Figure 1.** Literature search and concept extraction procedure. (a) Search term selection involved hand selecting seed articles (n=7) on the topic of AI in government and using the keywords (n=12) from these articles as search terms for a literature search. Filtering out articles that did not meet our inclusion criteria resulted in a final corpus of 99 articles from which key concepts were extracted using the unsupervised keyword extraction combined with manual abstract review. (b) The 12 search terms used for the literature search. (b) The top 10 concepts that we extracted. Each bar represents the total number of occurrences of a term in the final list of author-validated extracted concepts. </sub>
 
 This resulted in a sample of 92 articles; when factoring in the seed articles, the final number of articles included in this review is thus 99 articles published in 76 different journals. The complete dataset of articles, extracted concepts and all code to reproduce the results are available in an online repository (see Availability of data and materials statement). 
 
