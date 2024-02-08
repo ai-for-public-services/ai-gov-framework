@@ -5,7 +5,7 @@
 </nav>
 
 <p><a href="[https://arxiv.org/abs/2210.17218](https://www.sciencedirect.com/science/article/pii/S0740624X23000813)" target="_blank">
-<img src="images/draft_paper_button.png" width="230" height="65" >
+<img src="images/full-paper-button.png" width="230" height="65" >
 </a></p>
 
 This is a companion page for the paper _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. Tables and figures presented below may be downloaded and reused under a Creative Commons Attribution 4.0 International license. The page is best viewed on a desktop device.
