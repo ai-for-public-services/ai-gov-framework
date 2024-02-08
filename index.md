@@ -4,7 +4,7 @@
 {:toc}
 </nav>
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0740624X23000813"> target="_blank">
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0740624X23000813" target="_blank">
 <img src="images/full-paper-button.png" width="230" height="65" >
 </a></p>
 
